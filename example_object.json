@@ -1,0 +1,140 @@
+{
+  "Id": 1,
+  "Location": {
+    "Latitude": 10.631749,
+    "Longitude": 106.736015,
+    "Address": "491 Nguyễn Văn Tạo, X. Hiệp Phước",
+    "District": "Huyện Nhà Bè",
+    "DistrictId": 699,
+    "DistrictUrl": "https://www.foody.vn/ho-chi-minh/khu-vuc-huyen-nha-be",
+    "Location": "ho-chi-minh",
+    "city": "Hồ Chí Minh"
+  },
+  "Name": "Dê Tươi Trường Khang - Dê Tươi - Nguyễn Văn Tạo",
+  "CreatedAt": 1685357276,
+  "Domain": [
+    "foody",
+    "baemin"
+  ],
+  "Cuisines": [
+    {
+      "Id": 54,
+      "Name": "Đặc biệt",
+      "NameEn": null,
+      "ASCIIName": null,
+      "DetailUrl": "https://www.foody.vn/ho-chi-minh/dia-diem-phong-cach-dac-biet"
+    },
+    {
+      "Id": 55,
+      "Name": "Đặc sản vùng",
+      "NameEn": null,
+      "ASCIIName": null,
+      "DetailUrl": "https://www.foody.vn/ho-chi-minh/dia-diem-phong-cach-dac-san-vung"
+    }
+  ],
+  "TotalReview": 0,
+  "TotalView": 22,
+  "TotalFavourite": 0,
+  "TotalCheckins": 0,
+  "AvgRating": "_._",
+  "AvgRatingOriginal": 0,
+  "ReviewUrl": "https://www.foody.vn/ho-chi-minh/de-tuoi-truong-khang-de-tuoi-nguyen-van-tao.h7hoym/binh-luan",
+  "AlbumUrl": "https://www.foody.vn/ho-chi-minh/de-tuoi-truong-khang-de-tuoi-nguyen-van-tao.h7hoym/album-anh",
+  "MainCategoryId": 3,
+  "PictureCount": 0,
+  "Status": 2,
+  "HasBooking": false,
+  "HasDelivery": true,
+  "BookingUrl": "",
+  "DeliveryUrl": "https://shopeefood.vn/ho-chi-minh/de-tuoi-truong-khang-de-tuoi-nguyen-van-tao.h7hoym",
+  "BranchUrl": "https://www.foody.vn",
+  "BranchName": "Hệ thống ",
+  "TotalPictures": 0,
+  "TotalSaves": 0,
+  "IsOpening": true,
+  "HasVideo": false,
+  "Services": [
+    {
+      "Id": 1,
+      "Type": 0,
+      "Url": "https://www.foody.vn/ho-chi-minh/de-tuoi-truong-khang-de-tuoi-nguyen-van-tao.h7hoym/goi-mon",
+      "Title": null,
+      "Text": "Giao tận nơi",
+      "Avatar": null,
+      "Description": null
+    }
+  ],
+  "Categories": [
+    {
+      "Id": 3,
+      "Name": "Quán ăn",
+      "NameEn": null,
+      "ASCIIName": null,
+      "DetailUrl": null
+    }
+  ],
+  "BookingMobileUrl": "",
+  "UrlRewriteName": "de-tuoi-truong-khang-de-tuoi-nguyen-van-tao.h7hoym",
+  "PicturePath": "https://images.foody.vn/res/g100005/1000049373/prof/s180x180/file_93343ce0-8a03-4a62-935c-cef-73cb79ec-220316115331.jpeg",
+  "PicturePathLarge": "https://images.foody.vn/res/g100005/1000049373/prof/s640x400/file_93343ce0-8a03-4a62-935c-cef-73cb79ec-220316115331.jpeg",
+  "MobilePicturePath": "https://images.foody.vn/res/g100005/1000049373/prof/s640x400/file_93343ce0-8a03-4a62-935c-cef-73cb79ec-220316115331.jpeg",
+  "DetailUrl": "https://www.foody.vn/ho-chi-minh/de-tuoi-truong-khang-de-tuoi-nguyen-van-tao.h7hoym",
+  "ShowInSearchResult": false,
+  "ImageUrl": "https://static.baemin.vn/CH/StoreList/061837-20220611/163dd51a-8bf9-4a87-8444-b86a23452784/store_main.jpg",
+  "ThumbnailImageUrl": "https://static.baemin.vn/CH/StoreList/061837-20220611/163dd51a-8bf9-4a87-8444-b86a23452784/store_main-small.jpg",
+  "Cuisine": "vietnamese",
+  "FeaturedMenuTitle": {
+    "en": "Recommended Menu",
+    "vi": "Nhất định phải thử"
+  },
+  "RecommendMenu": "Lẩu dê",
+  "IsAvailable": false,
+  "State": "ACTIVE",
+  "CanOrder": true,
+  "IsPartner": false,
+  "CanAcceptOrder": false,
+  "AllowCashLessOrder": false,
+  "ProvideDiscount": false,
+  "ProvideCoupon": false,
+  "CheckAvailability": 0,
+  "Type": "MERCHANT",
+  "DeliveryType": "1P_OWNFLEET_DH",
+  "Rating": {
+    "score": null,
+    "reason": [],
+    "totalrating": null,
+    "totalorder": "0",
+    "totallikes": null,
+    "totaldislikes": null
+  },
+  "OpeningTime": {
+    "Sunday": {
+      "TimeOpen": "10:00",
+      "TimeClose": "22:00"
+    },
+    "Monday": {
+      "TimeOpen": "10:00",
+      "TimeClose": "22:00"
+    },
+    "Tuesday": {
+      "TimeOpen": "10:00",
+      "TimeClose": "22:00"
+    },
+    "Wednesday": {
+      "TimeOpen": "10:00",
+      "TimeClose": "22:00"
+    },
+    "Thursday": {
+      "TimeOpen": "10:00",
+      "TimeClose": "22:00"
+    },
+    "Friday": {
+      "TimeOpen": "10:00",
+      "TimeClose": "22:00"
+    },
+    "Saturday": {
+      "TimeOpen": "10:00",
+      "TimeClose": "22:00"
+    }
+  }
+}
