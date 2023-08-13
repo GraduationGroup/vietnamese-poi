@@ -32,8 +32,8 @@ Chúng tôi cũng cung cấp sẵn các bộ dữ liệu cho mọi người. Bao
 ## Dữ liệu thống kê
 
 Thống kê dữ liệu chia Theo loại danh mục: [xem tại đây](poi_by_category.png)
-<a href="file/poi_by_category.png" target="_blank"><img src="file/poi_by_category.png" alt="HCMUS" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
+<a href="poi_by_category.png" target="_blank"><img src="poi_by_category.png" alt="HCMUS" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
 
 Thống kê dữ liệu chia theo khu vực: [xem tại đây](poi_by_city.png)
-<a href="file/poi_by_city.png" target="_blank"><img src="file/poi_by_category.png" alt="HCMUS" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
+<a href="poi_by_city.png" target="_blank"><img src="poi_by_category.png" alt="HCMUS" style="width: 80%; min-width: 300px; display: block; margin: auto;"></a>
 
