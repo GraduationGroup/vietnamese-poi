@@ -22,6 +22,8 @@ Dự án này mang tên **Thu thập và xếp hạng các điểm nổi tiếng
 
 Ở đây là nơi để thích hợp để những người có hứng thú với dự án này có thể tìm hiểu sâu hơn về công dụng và mục tiêu của nó. Ngoài ra việc cài đặt , sử dụng sẽ trở nên dễ dàng hơn.
 
+Để nhận được bộ dữ liệu vui lòng hoàn thành [biểu mẫu này](https://docs.google.com/forms/d/e/1FAIpQLSdecwG9Ug0TYgt2UF9_SiGTo4KfqK02L8-KquwvmrP3Fp_bdQ/viewform)
+
 Chúng tôi cũng cung cấp sẵn các bộ dữ liệu cho mọi người. Bao gồm:
 
 - Hơn [450K data](https://docs.google.com/forms/d/e/1FAIpQLSdecwG9Ug0TYgt2UF9_SiGTo4KfqK02L8-KquwvmrP3Fp_bdQ/viewform) địa điểm nổi bật ở Việt Nam (cập nhật mới nhất vào tháng **7/2023**)
